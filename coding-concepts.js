@@ -70,3 +70,4 @@ console.log(learnStudent)
 
 // a) Your answer: George
 // b) Verify and explain: Learn { student: 'George', cohort: 'Foxtrot', year: 2022 }... I think it logged this because by using learnStudent = new Learn you are taking everything withing the variable to Learn and now placing it into learnStudent. By adding ("George") after new Learn it is replacing this.student which currently equals name, and George is taking the place of the name. I am honestly having a hard time keeping up with all that is going on here. I am goin to reveiw the syllabus and lecture notes to see if I can figure it out.
+

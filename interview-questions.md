@@ -55,3 +55,5 @@ Research and define the following terms to the best of your ability.
 4. React props: Passes intformation from one component to another using specialized React objects.
 
 5. DOM events: Not sure if this is what you are asking for, but what I found is that DOM stands for (Document Object Model) and it signals that something can be triggered by a user or that something has occurred or something is occurring. For example clicking a mouse.
+
+
